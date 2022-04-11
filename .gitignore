@@ -1,0 +1,12 @@
+# VSCode
+.vscode
+backup/
+
+# Build file
+workspace/target
+workspace/project
+workspace/.bsp
+
+# Scala
+*.class
+*.log
